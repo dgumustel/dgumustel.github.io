@@ -2412,7 +2412,8 @@ input, select, textarea {
 			}
 
 			#nav li.current a {
-				background: #b1ddab;
+				/* background: #b1ddab; */
+				background: #9accdb
 				color: #fff;
 			}
 
