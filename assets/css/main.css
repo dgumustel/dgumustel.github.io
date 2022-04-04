@@ -2308,7 +2308,7 @@ input, select, textarea {
 		font-size: 2em;
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
-		text-transform: uppercase;
+		text-transform: none;
 		padding: 2em 0;
 		background: #fff;
 		margin: 0 auto;
